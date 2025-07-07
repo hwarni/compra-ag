@@ -5,5 +5,4 @@ Before starting to work, you need to activate it
 .venv\Scripts\activate  (Windows)
 source .venv/bin/activate (Linux)
 
-These packages need to be installed in the virtual environment:
-pip show playwright
+install the requirements in requirements.txt
